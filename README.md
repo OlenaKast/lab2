@@ -87,4 +87,5 @@ LOG_LEVEL=debug
 # Релізи
 Всі кроки еволюції доступні як теги на GitHub:
 
-[Переглянути всі релізи](https://github.com/OlenaKast/lab2/releases)
+[Переглянути всі теги](https://github.com/OlenaKast/lab2/tages)
+
